@@ -7,8 +7,10 @@
 ##  About Me
 - 💻 Software Developer Intern @ Datamoo AI
 - 🌱 Learning Python, Django, Java
-- 🏆 Placed 3rd at Google TechSprint
-- 🏆 Placed 2nd at Nourishnovate, organized by REC Chennai
+- 🔥 Building scalable backend systems with Django & REST APIs
+- 🏆 Won 2nd place at Google Techsprint '25 - Namma Ration
+- 🏆 Placed 3rd at Nourishnovate, organized by REC Chennai
+- 🏆 Special mention at ProCoDe Cup, SSN 
     
 ## 🔗 Connect
 <p align="center">
@@ -63,6 +65,7 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
