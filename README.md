@@ -75,3 +75,8 @@
 ## GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akki0312-tech&show_icons=true&theme=github_dark&hide_border=true"/>
 <img height="180em" src="https://streak-stats.demolab.com?user=akki0312-tech&theme=github-dark-blue&hide_border=true"/>
+
+## LeetCode
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CqObMsDiUQ?theme=dark&font=Baloo"/>
+</p>
